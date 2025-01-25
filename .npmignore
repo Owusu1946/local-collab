@@ -1,0 +1,7 @@
+src/
+test-client/
+test-server/
+.git/
+.gitignore
+tsconfig.json
+*.log
